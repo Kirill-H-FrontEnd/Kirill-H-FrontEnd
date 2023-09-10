@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **https://t.me/Kirill_Horushevskiy**
 
+<img style = "width:100%"  src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://t.me/Kirill_Horushevskiy"><img width="40" src="https://cdn.iconscout.com/icon/free/png-512/telegram-3-226554.png?f=avif&w=256"/><a/>
