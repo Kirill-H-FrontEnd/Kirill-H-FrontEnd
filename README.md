@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi! 👋, I'm Kirill.</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img width="100px" height:"100px" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
+<img width="300px" height:"300px" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill-h-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="kirill-h-frontend" /> </p>
 
