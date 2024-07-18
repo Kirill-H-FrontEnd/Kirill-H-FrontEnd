@@ -10,7 +10,6 @@
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=dark)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirill-h-frontend&show_icons=true&locale=en&layout=compact" alt="kirill-h-frontend" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirill-h-frontend&show_icons=true&locale=en" alt="kirill-h-frontend" /></p>
 
