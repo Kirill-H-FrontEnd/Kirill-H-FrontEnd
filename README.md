@@ -14,4 +14,4 @@
 ## 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=dark)](https://skillicons.dev)
 
-<p><img style = "width:100%"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fadityaprashar01&psig=AOvVaw3zicsbQaotsg66D9eGWxvA&ust=1721396928712000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCnwLndsIcDFQAAAAAdAAAAABAJ"/><p/>
+<p><img style = "width:100%"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"/><p/>
