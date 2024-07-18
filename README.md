@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=dark)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirill-h-frontend&show_icons=true&locale=en&layout=compact" alt="kirill-h-frontend" /></p>
 
