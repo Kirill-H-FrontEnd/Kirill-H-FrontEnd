@@ -10,7 +10,7 @@
 ## 🌐 Social
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.linkedin.com/in/kirill-h)
-[![Telegram](https://skillicons.dev/icons?i=telegram&theme=dark)](https://www.linkedin.com/in/kirill-h)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://www.linkedin.com/in/kirill-h)
 ## 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=dark)](https://skillicons.dev)
 
