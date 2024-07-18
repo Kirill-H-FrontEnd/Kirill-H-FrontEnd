@@ -1,4 +1,3 @@
-
 <h1 style = "display:none" align="center">Hi! 👋, I'm Kirill.</h1>
 <h3 align="center">A passionate Frontend Developer!</h3>
 <img style = "width:100%"  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
@@ -6,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill-h-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="kirill-h-frontend" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+## 🛠 Skills
 - 🔭 I’m currently working on **Frilance**
 
 - 🌱 I’m currently learning **Front | End - web technologies**
