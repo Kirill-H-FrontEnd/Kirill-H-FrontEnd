@@ -6,7 +6,7 @@
 <img style = "width:100%"  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 ## 💫 About Me
-- 🚀 Cheers to endless loops and bug-free adventures!🔥
+- 🚀 Cheers to endless loops and bug-free adventures!
 - 📫 Reach me at kirillhorushevskiy@gmail.com
 - ⚡ Merge Conflicts 😅 Character Building
 ## 🌐 Social
