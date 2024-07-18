@@ -14,6 +14,6 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.linkedin.com/in/kirill-h)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://www.linkedin.com/in/kirill-h)
 ## 🛠 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=dark)]('')
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,css,scss,git,ts,js,html&theme=dark)]
 
 <p><img style = "width:100%"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"/><p/>
