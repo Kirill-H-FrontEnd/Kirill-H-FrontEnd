@@ -5,9 +5,6 @@
  
 <img style = "width:100%"  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill-h-frontend&label=Profile%20views&color=0e75b6&style=flat" alt="kirill-h-frontend" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🌐 Social
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
