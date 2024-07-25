@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 - 🚀 Cheers to endless loops and bug-free adventures!
-- 📫 Reach me at kirillhorushevskiy@gmail.com
+- 📫 Reach me at frontendkirillh@gmail.com
 - ⚡ Merge Conflicts 😅 Character Building
 ## 🌐 Social
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
