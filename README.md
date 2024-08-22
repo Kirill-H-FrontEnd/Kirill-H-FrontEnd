@@ -2,7 +2,7 @@
 
 I'm a Frontend developer. I like to use [React](https://reactjs.org/),[NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), TaiwildCSS for styling web projects.
 
-I love web accessibility.
+I ❤️ love web accessibility.
 
 
 ## 💫 About Me
@@ -42,15 +42,8 @@ I love web accessibility.
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 
-
 </div>
 
-
-<h1 style = "display:none" align="center">👋 Hi! I'm Kirill.</h1>
-<h2 align="center">A passionate Frontend Developer!</h3>
-<h3 style = "display:none;fonts" align="center">🚀Welcome to my quirky corner of the coding universe! 🌌 I'm just a curious human with a passion for turning caffeine into code and pixels into magic.🔥.</h1>
- 
-<img style = "width:100%"  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 
 
