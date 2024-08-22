@@ -1,16 +1,17 @@
 ### Hi there 👋, It's Kirill
 
-I'm a Frontend developer. I like to use [React](https://reactjs.org/),[NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)], TaiwildCSS for styling web projects.
+I'm a Frontend developer. I like to use [React](https://reactjs.org/),[NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), TaiwildCSS for styling web projects.
 
 I love web accessibility.
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+## 💡 A Quote:
+
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jasper.d.gabriel@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kirill-h) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kirillhorushevskiy@gmail.com)
 
 </div>
 
@@ -22,9 +23,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 <div align="center">
 
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack:
 
