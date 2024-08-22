@@ -11,8 +11,8 @@ I ❤️ love web accessibility.
 - 🏆 Merge Conflicts 😅 Character Building
 
 ## 🌐 Social
- <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
+ <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logoColor=white&logo=linkedin&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logoColor=white&logo=gmail&color=0055FF" alt="framer" />
    
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kirillhorushevskiy@gmail.com)
