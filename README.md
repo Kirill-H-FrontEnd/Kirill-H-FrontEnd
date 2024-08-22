@@ -7,12 +7,12 @@ I love web accessibility.
 
 ## 💫 About Me
 - 🚀 Cheers to endless loops and bug-free adventures!
-- 📫 Reach me at frontendkirillh@gmail.com
+- 📫 Reach me at   <a target="_blank"href="kirillhorushevskiy@gmail.com">kirillhorushevskiy@gmail.com</a>&nbsp;&nbsp;
 - ⚡ Merge Conflicts 😅 Character Building
 
 ## 🌐 Social
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://www.linkedin.com/in/kirill-h)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kirillhorushevskiy@gmail.com)
 
 <div align="center">
     
