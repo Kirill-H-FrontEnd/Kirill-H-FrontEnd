@@ -3,16 +3,17 @@
 I'm a Frontend developer. I like to use [React](https://reactjs.org/),[NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), TaiwildCSS for styling web projects.
 
 I love web accessibility.
-<div align="center">
 
-## 💡 A Quote:
 
 ## 💫 About Me
 - 🚀 Cheers to endless loops and bug-free adventures!
 - 📫 Reach me at frontendkirillh@gmail.com
 - ⚡ Merge Conflicts 😅 Character Building
 
+## 💡 A Quote:
+
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kirill-h) &nbsp;
