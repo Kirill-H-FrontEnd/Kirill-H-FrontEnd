@@ -7,7 +7,7 @@ I love web accessibility.
 
 ## 💫 About Me
 - 🚀 Cheers to endless loops and bug-free adventures!
-- ⚡ Fun fact: I love sport, code and play the games!
+- ⚡ Fun fact: I love sport, write code, play the games and sleep with my dog!
 - 🏆 Merge Conflicts 😅 Character Building
 
 ## 🌐 Social
