@@ -7,8 +7,8 @@ I love web accessibility.
 
 ## 💫 About Me
 - 🚀 Cheers to endless loops and bug-free adventures!
-- 📫 Reach me at   <a target="_blank"href="kirillhorushevskiy@gmail.com">kirillhorushevskiy@gmail.com</a>&nbsp;&nbsp;
-- ⚡ Merge Conflicts 😅 Character Building
+- ⚡ Fun fact: I love sport, code and play the games!
+- 🏆 Merge Conflicts 😅 Character Building
 
 ## 🌐 Social
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
