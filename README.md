@@ -7,19 +7,19 @@ I love web accessibility.
 
 ## 💡 A Quote:
 
+## 💫 About Me
+- 🚀 Cheers to endless loops and bug-free adventures!
+- 📫 Reach me at frontendkirillh@gmail.com
+- ⚡ Merge Conflicts 😅 Character Building
+
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kirill-h) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kirillhorushevskiy@gmail.com)
 
-</div>
 
-- 🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
-- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
-- 📝 I’m aiming to write **one article per week** starting from November 2023.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
-- ⚡ Fun fact: I read books, play the piano, and sleep with my dog!
+
 
 <div align="center">
 
@@ -69,10 +69,7 @@ I love web accessibility.
  
 <img style = "width:100%"  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
-## 💫 About Me
-- 🚀 Cheers to endless loops and bug-free adventures!
-- 📫 Reach me at frontendkirillh@gmail.com
-- ⚡ Merge Conflicts 😅 Character Building
+
 ## 🌐 Social
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.linkedin.com/in/kirill-h)
