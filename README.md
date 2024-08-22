@@ -24,7 +24,7 @@ I love web accessibility.
 
 ## 💻 My Tech Stack:
 
-[![Next.js, React, Node.js, JavaScript, TypeScript, TailwindCss](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, React, JavaScript, TypeScript, TailwindCss](https://skillicons.dev/icons?i=next,react,js,ts,tailwindcss)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
