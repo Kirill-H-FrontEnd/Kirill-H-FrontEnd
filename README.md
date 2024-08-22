@@ -1,6 +1,6 @@
 ### Hi there 👋, It's Kirill
 
-I'm a Frontend developer. I like to use [React](https://reactjs.org/),[NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), TaiwildCSS for styling web projects.
+I'm a Frontend developer. I like to use [React](https://reactjs.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), TaiwildCSS for styling web projects.
 
 I ❤️ love web accessibility.
 
