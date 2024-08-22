@@ -14,9 +14,10 @@ I love web accessibility.
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](https://www.linkedin.com/in/kirill-h)
 
-## 💡 A Quote:
 <div align="center">
     
+## 💡 A Quote:
+
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
