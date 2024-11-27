@@ -17,7 +17,7 @@ I ❤️ love web accessibility.
 
 ## 💻 My Tech Stack:
 
-[![Html,Scss,Next.js, React, JavaScript, TypeScript, TailwindCss, Docker](https://skillicons.dev/icons?i=html,scss,next,react,js,ts,tailwindcss)](https://skillicons.dev)
+[![Html,Scss,Next.js, React, JavaScript, TypeScript, TailwindCss, Vue](https://skillicons.dev/icons?i=html,scss,next,react,js,ts,tailwindcss)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
