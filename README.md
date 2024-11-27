@@ -15,16 +15,6 @@ I ❤️ love web accessibility.
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kirill-h)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kirillhorushevskiy@gmail.com)
 
-<div align="center">
-    
-## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-<div align="center">
-
-
 ## 💻 My Tech Stack:
 
 [![Html,Scss,Next.js, React, JavaScript, TypeScript, TailwindCss](https://skillicons.dev/icons?i=html,scss,next,react,js,ts,tailwindcss)](https://skillicons.dev)
